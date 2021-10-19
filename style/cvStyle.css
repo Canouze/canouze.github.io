@@ -1,0 +1,55 @@
+@media(min-width:1000px){
+	#container1{
+		display: flex;
+		justify-content:space-around;
+	}
+}
+
+body{
+	background:Bisque;
+	text-align:center;
+}
+
+h1{
+	color:DarkSlateGray;
+	font-family:Times;
+	text-shadow: 2px 2px #A52A21;
+	
+}
+	
+h2{
+	color:IndianRed;
+	font-family:Arial;
+	text-shadow: 2px 2px #2F4F4F;
+}	
+
+h3{
+	color:DarkSlateGray;
+	font-family:Courier New;
+}	
+
+ul{
+	color:IndianRed;
+	font-family:Helvetica;
+	list-style-position:inside;
+}
+
+.bold{
+	font-weight: bold;
+}
+
+.underline{
+	text-decoration: underline;
+}
+
+#list1{
+	list-style-type: circle;
+}
+
+h4{
+	font-family: Arial;
+}
+
+#coverlettertext{
+	text-align: left;
+}
